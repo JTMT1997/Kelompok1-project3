@@ -1,0 +1,22 @@
+header{
+	background-color: black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: right;
+
+
+}
+
+header a{
+	margin-left: 20px;
+	color: yellow;
+	text-decoration: none;
+
+}
+
+ img{
+	width: 10%;
+	height: 10%;
+	margin-right: 915px; 
+}
+
