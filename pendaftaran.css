@@ -1,0 +1,123 @@
+*{
+    margin: 0pt;
+    padding: 0pt;
+}
+
+header{
+	background-color: black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: right;
+	height: 50px;
+    margin-bottom: 66px;
+
+
+}
+
+header div{
+	height: 100%;
+	float: right;
+
+}	
+header a{
+	color: yellow;
+	text-decoration: none;
+
+}
+
+ img{
+	
+	height: 100%;
+	float: left; 
+}
+
+
+.register{
+    width: 100%;
+    height: 400px;
+
+}
+.register .aa{
+    background-color: grey;
+    margin-right: 25%;
+    color: yellow;
+    float: left;
+}
+
+.aa .dalamha{
+    color: black;
+    background-color: white;
+}
+.register .bb{
+    color: yellow;
+    margin-right: 100px;
+    background-color: grey;
+    float: left;
+}
+.bb .dalamb{
+
+    color: black;
+    background-color: white;
+}
+
+.register .cc{
+    background-color: grey;
+    float: right;
+    color: yellow;
+}
+.dalamc{
+    background-color: white;
+    color: black;
+}
+table button{
+    background: red;
+    color:yellow;
+}
+table button:hover{
+    color: green;
+}
+
+footer{
+    margin: 0pt;
+    padding: 0pt;
+    overflow: hidden;
+}
+.f-title{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background: yellow;
+    border-top: 2pt solid black;
+    border-bottom: 2pt solid black;
+}
+.f-isi{
+    padding-top: 20px;
+}
+.f-isi img{
+    width: 100%;
+}
+.f-isi button{
+    width: 100%;
+}
+.loc{
+    width: 20%;
+    float:left;
+    margin-left: 7%;
+}
+.loc1{
+    width: 20%;
+    float:left;
+    margin-left: 2%;
+}
+.loc2{
+    width: 20%;
+    float:left;
+    margin-left: 2%;
+}
+.contact{
+    width: 20%;
+    float: left;
+    margin-left:2%;
+    margin-right: 7%;
+}
