@@ -1,10 +1,23 @@
+*{
+    margin: 0pt;
+    padding: 0pt;
+}
+
 header{
 	background-color: black;
 	padding-top: 1%;
 	padding-bottom: 1%;
 	text-align: right;
+	height: 50px;
+	width: 100%;
+
+
 }
 
+header div{
+	height: 100%;
+	float: right;
+}
 header a{
 	color: yellow;
 	text-decoration: none;
@@ -12,9 +25,9 @@ header a{
 }
 
  img{
-	width: 10%;
-	height: 10%;
-	margin-right: 915px;
+
+	height: 100%;
+	float: left;
 }
 
 .header-content{
@@ -87,4 +100,49 @@ header a{
 .footer-content a:hover{
 	background-color: steelblue;
 	color: yellow;
+}
+
+footer{
+    margin: 0pt;
+    padding: 0pt;
+    overflow: hidden;
+}
+.f-title{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background: yellow;
+    border-top: 2pt solid black;
+    border-bottom: 2pt solid black;
+}
+.f-isi{
+    padding-top: 20px;
+}
+.f-isi img{
+    width: 100%;
+}
+.f-isi button{
+    width: 100%;
+}
+.loc{
+    width: 20%;
+    float:left;
+    margin-left: 7%;
+}
+.loc1{
+    width: 20%;
+    float:left;
+    margin-left: 2%;
+}
+.loc2{
+    width: 20%;
+    float:left;
+    margin-left: 2%;
+}
+.contact{
+    width: 20%;
+    float: left;
+    margin-left:2%;
+    margin-right: 7%;
 }
