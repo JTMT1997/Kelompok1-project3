@@ -16,3 +16,75 @@ header a{
 	height: 10%;
 	margin-right: 915px;
 }
+
+.header-content{
+	background-image: url(https://importir.org/v2/assets/images/img-5206-1046x785.jpg);
+	background-size: 100%;
+	margin-top: -67px;
+}
+
+.content-isi {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background-color: black;
+	opacity: 0.5;
+	text-align: center;
+}
+
+.content-isi h1{
+	font-size: 100px;
+	font-weight: 700;
+	color: white;
+	padding-top: 50px;
+}
+
+.content-isi h1:hover{
+	color: red;
+}
+
+.content-isi p{
+	font-size: 50px;
+	width: 700px;
+	height: 100px;
+	color: white;
+	padding-bottom: 100px;
+	margin: auto;
+}
+
+.content-isi p:hover{
+	color: yellow;
+}
+
+.video iframe {
+	border-radius: 10px;
+}
+
+.video iframe:hover{
+	width: 25%;
+	height: 210;
+}
+
+.footer-content {
+	width: 100%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.footer-content a{
+	background-color: dodgerblue;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-radius: 50px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.footer-content a:hover{
+	background-color: steelblue;
+	color: yellow;
+}
