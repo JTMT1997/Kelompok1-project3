@@ -1,23 +1,10 @@
-*{
-    margin: 0pt;
-    padding: 0pt;
-}
-
 header{
 	background-color: black;
 	padding-top: 1%;
 	padding-bottom: 1%;
 	text-align: right;
-	height: 50px;
-	width: 100%;
-
-
 }
 
-header div{
-	height: 100%;
-	float: right;
-}
 header a{
 	color: yellow;
 	text-decoration: none;
@@ -25,9 +12,9 @@ header a{
 }
 
  img{
-
-	height: 100%;
-	float: left;
+	width: 10%;
+	height: 10%;
+	margin-right: 915px;
 }
 
 .header-content{
