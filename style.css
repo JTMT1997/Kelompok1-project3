@@ -1,0 +1,29 @@
+.content{
+  overflow: hidden;
+  margin-left: 6%;
+}
+
+.gambar-gambar {
+  width: 1200px;
+  height: 305px;
+  float: left;
+}
+
+.gambar-gambar a{
+  float: left;
+  margin: 3px;
+}
+.gambar-gambar .gambar1{
+  width: 570px;
+  height: 300px;
+}
+
+.gambar-gambar .gambar2{
+  width: 300px;
+  height: 98px;
+}
+
+.gambar-gambar .gambar3{
+  width: 600px;
+  height: 85px;
+}
