@@ -17,6 +17,6 @@ header a{
  img{
 	width: 10%;
 	height: 10%;
-	margin-right: 915px; 
+	float: left; 
 }
 
