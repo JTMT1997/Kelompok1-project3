@@ -2,36 +2,65 @@
     margin: 0pt;
     padding: 0pt;
 }
-
 header{
 	background-color: black;
 	padding-top: 1%;
 	padding-bottom: 1%;
 	text-align: right;
 	height: 50px;
-
-
 }
-
 header div{
 	height: 100%;
 	float: right;
-
 }	
 header a{
 	color: yellow;
 	text-decoration: none;
-
 }
-
- img{
-	
+img{
 	height: 100%;
 	float: left; 
 }
-
+.category h1{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 20pt;
+}
+.category{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+.category-list{
+    height: 220px;
+    /* background: yellow; */
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.category-list .list{
+    width: 22%;
+    height: 180px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: red;
+    float: left;
+}
+.category-list .list:first-child{
+    margin-left: 3%;
+}
+.category-list .list:last-child{
+    margin-right: 3%;
+}
+.category-list img{
+    width: 100%;
+}
 footer{
     margin: 0pt;
+    margin-top: 20pt;
     padding: 0pt;
     overflow: hidden;
 }
